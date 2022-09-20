@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/auser/projects/europe/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/europe.dir/main.cpp.o -c /home/auser/projects/europe/main.cpp",
+  "file": "/home/auser/projects/europe/main.cpp"
+}
+]
